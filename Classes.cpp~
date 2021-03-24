@@ -1,6 +1,6 @@
-// This program is a Classes Database, Can store Movies, Music, and Video Games, along with certain information about it. You can Add Media, Delete Media, Search for Media, or Quit the Program
-// Ethan Wang
-// 11/5/19
+// This program stores various classes, including video games, music, movies, etc.
+// Michael Wang
+// 3/21/21
 
 // Imports
 #include <iostream>
